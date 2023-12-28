@@ -20,7 +20,7 @@ Arrest Data: The primary dataset used for this analysis is the "Arrest_2020.csv"
 
 ### Data Cleaning/ Preparation
 
-In the initial data preparation phase, we performed the following tasks:
+In the initial data preparation phase, I performed the following tasks:
 
 1. Data loading and inspection.
 2. Handling missing values.
