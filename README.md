@@ -37,5 +37,15 @@ Demographic Analysis:
 Arrest Type Breakdown::
   - What is the distribution of arrest types (e.g., misdemeanor, felony) in the dataset?
 
+### Data Statistical Summary
+
+- The dataset primarily consists of "BOOKING" entries, indicating that a significant portion of the records corresponds to booking-related activities.
+
+- The dataset records 3,772 instances of the common arrest time, around 1:00 PM, indicating a concentrated period for law enforcement activity.
+
+- The most common area for arrests is "Rampart," with 18,632 occurrences, indicating a higher concentration of law enforcement activities in this region.
+
+- The dataset indicates a higher frequency of male persons involved in arrests due to the majority of males (202,282 occurrences). Furthermore, "H," which has been recorded 131,366 times, is the most often occurring descent code, suggesting a concentration of arrests involving people of Hispanic heritage.
+
 
 
