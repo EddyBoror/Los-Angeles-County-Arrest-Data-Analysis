@@ -9,7 +9,8 @@ Analyzing and Visualizing Uncleaned Arrest Data from L.A. County
 
 ### Data Sources
 
-Arrest Data: The primary dataset used for this analysis is the "Arrest_2020.csv"
+Arrest Data: This analysis's primary dataset, "Arrest_2020.csv," contains information from January 2020 to November 2023. It's important to remember that, even if my analysis is predicated on historical data, the dataset is updated daily to guarantee that the most recent and pertinent insights are considered.
+  - [Download here](https://data.lacity.org/Public-Safety/Arrest-Data-from-2020-to-Present/amvf-fr72/about_data)
 
 ### Tools
 
