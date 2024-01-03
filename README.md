@@ -1,4 +1,7 @@
-# Portfolio Project
+# Los Angeles Crime Analysis
+
+<img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Images/Los%20Angeles.jpg" width="900" height="400" />
+
 
 ### Project Overview
 
