@@ -3,16 +3,20 @@
 <img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Images/Los%20Angeles.jpg" width="900" height="350" />
 
 
-### Project Overview
+# Project Overview
 
 Analyzing and Visualizing Uncleaned Arrest Data from L.A. County
 
-### Data Sources
+<br>
+
+# Data Sources
 
 Arrest Data: This analysis's primary dataset, "Arrest_2020.csv," contains information from January 2020 to November 2023. It's important to remember that, even if my analysis is predicated on historical data, the dataset is updated daily to guarantee that the most recent and pertinent insights are considered.
   - [Download here](https://data.lacity.org/Public-Safety/Arrest-Data-from-2020-to-Present/amvf-fr72/about_data)
 
-### Tools
+<br>
+
+# Tools
 
 - Excel: Data Source
   - [Download here](https://data.lacity.org/Public-Safety/Arrest-Data-from-2020-to-Present/amvf-fr72/about_data)
@@ -22,7 +26,9 @@ Arrest Data: This analysis's primary dataset, "Arrest_2020.csv," contains inform
   visualizations.
 - Tableau: Building interactive dashboards for comprehensive data representation.
 
-### Data Cleaning/ Preparation
+<br>
+
+# Data Cleaning/ Preparation
 
 In the initial data preparation phase, I performed the following tasks with Python:
 
@@ -30,24 +36,27 @@ In the initial data preparation phase, I performed the following tasks with Pyth
 2. Handling missing values.
 3. Data cleaning and formatting.
 
-### Exploratory Data Analysis
+<br>
 
-Geospatial Crime Analysis:
+# Exploratory Data Analysis
+
+### Geospatial Crime Analysis:
 
   - Explore trends in arrest frequencies across diverse locations on a geographic map.
 
 <img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Geo%20City.png" width="1000" height="700" />
 
-Demographic Analysis:
+### Demographic Analysis:
   - Are certain age groups or genders more frequently involved in arrests?
 
-Arrest Type Breakdown::
+### Arrest Type Breakdown::
   - What is the distribution of arrest types (e.g., misdemeanor, felony) in the dataset?
 
 <img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Gender%20Age%20Arrest.png" width="1000" height="700" />
 
+<br>
 
-### Data Statistical Summary
+# Data Statistical Summary
 
 - The dataset primarily consists of "BOOKING" entries, indicating that a significant portion of the records corresponds to booking-related activities.
 
