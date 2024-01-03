@@ -28,8 +28,11 @@ In the initial data preparation phase, I performed the following tasks with Pyth
 
 ### Exploratory Data Analysis
 
-Arrest Trends Over Time:
-  - How do arrest frequencies vary over different dates and times?
+Geospatial Crime Analysis:
+
+  - Explore trends in arrest frequencies across diverse locations on a geographic map.
+
+<img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Geo%20City.png" width="1000" height="700" />
 
 Demographic Analysis:
   - Are certain age groups or genders more frequently involved in arrests?
