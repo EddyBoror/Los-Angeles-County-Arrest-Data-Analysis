@@ -37,11 +37,11 @@ Geospatial Crime Analysis:
 Demographic Analysis:
   - Are certain age groups or genders more frequently involved in arrests?
 
-<img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Gender%20Age%20Arrest.png" width="1000" height="700" />
-
-
 Arrest Type Breakdown::
   - What is the distribution of arrest types (e.g., misdemeanor, felony) in the dataset?
+
+<img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Gender%20Age%20Arrest.png" width="1000" height="700" />
+
 
 ### Data Statistical Summary
 
