@@ -18,7 +18,7 @@ GROUP BY
 	[Report Type];
 
 
--- 2. What is the average age of the women in the dataset?
+-- 2. What is the average age in the dataset?
 
 SELECT 
 	AVG([Age]) AS Avg_Age
