@@ -40,6 +40,9 @@ In the initial data preparation phase, I performed the following tasks with Pyth
 
 # Exploratory Data Analysis
 
+### Python Analysis
+- Please check here for my cleaning, analysis, and visualization using [Python](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Final%20Cleaned%20Arrest%20Dataset.ipynb) libraries.
+
 ### Geospatial Crime Analysis:
 
   - Explore trends in arrest frequencies across diverse locations on a geographic map.
