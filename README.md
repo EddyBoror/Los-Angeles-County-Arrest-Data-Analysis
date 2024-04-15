@@ -53,9 +53,16 @@ In the initial data preparation phase, I performed the following tasks with Pyth
   - Are certain age groups or genders more frequently involved in arrests?
 
 ### Arrest Type Breakdown::
-  - What is the distribution of arrest types (e.g., misdemeanor, felony) in the dataset?
+- What is the distribution of arrest types (e.g., misdemeanor, felony) in the dataset?
 
 <img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Gender%20Age%20Arrest.png" width="1000" height="700" />
+
+- How does the average age vary by gender from 2020 to 2023?
+![image](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/assets/61037075/a82a73ef-02b2-4b98-8958-4954f7c186cc)
+
+- Insight: The consistent average age of 35 for arrests from 2020 to 2023 highlights a stable demographic trend.
+
+- Actionable View: LAPD could use this insight to tailor interventions and allocate resources effectively for this age group, potentially through targeted community engagement or preventive programs.
 
 <br>
 
