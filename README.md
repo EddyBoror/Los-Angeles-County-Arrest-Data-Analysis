@@ -49,20 +49,21 @@ In the initial data preparation phase, I performed the following tasks with Pyth
 
 <img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Geo%20City.png" width="1000" height="700" />
 
-### Demographic Analysis:
-  - Are certain age groups or genders more frequently involved in arrests?
-
 ### Arrest Type Breakdown::
-- What are the differences in charge type counts between males and females in the dataset?
+What are the differences in charge type counts between males and females in the dataset?
 
 Male
 ![image](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/assets/61037075/449ea6ba-8372-4d05-8da3-82e24694c533)
+
+- Insight: Male charge descriptions dominate the dataset, with seven types exceeding 10,000 counts, while for females, Aggravated Assault tops the chart at 8,217 instances.
+- Actionable View: Target resources towards addressing prevalent charge types among males, especially those with counts surpassing 10,000 instances, through tailored interventions and enforcement strategies.
 
 Female
 ![image](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/assets/61037075/5d853b26-4478-4907-ba98-fc614a16bda8)
 
 
 How does the average age vary by gender from 2020 to 2023?
+
 ![image](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/assets/61037075/8c0f46eb-7f39-41a9-9890-ffbd41e2fc0d)
 
 - Insight: The consistent average age of 35 for arrests from 2020 to 2023 highlights a stable demographic trend.
