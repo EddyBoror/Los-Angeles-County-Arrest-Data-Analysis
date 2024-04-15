@@ -53,9 +53,14 @@ In the initial data preparation phase, I performed the following tasks with Pyth
   - Are certain age groups or genders more frequently involved in arrests?
 
 ### Arrest Type Breakdown::
-- What is the distribution of arrest types (e.g., misdemeanor, felony) in the dataset?
+- What are the differences in charge type counts between males and females in the dataset?  
+Male
+![image](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/assets/61037075/449ea6ba-8372-4d05-8da3-82e24694c533)
 
-<img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Gender%20Age%20Arrest.png" width="1000" height="700" />
+Female
+![image](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/assets/61037075/5d853b26-4478-4907-ba98-fc614a16bda8)
+
+
 
 - How does the average age vary by gender from 2020 to 2023?
 ![image](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/assets/61037075/a82a73ef-02b2-4b98-8958-4954f7c186cc)
