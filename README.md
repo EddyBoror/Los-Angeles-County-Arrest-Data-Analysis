@@ -47,7 +47,7 @@ In the initial data preparation phase, I performed the following tasks with Pyth
 
   - What are the top four races within each geographical total count charge area?
 
-![image](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/assets/61037075/340158e8-92c2-45f1-a43a-f11447d377e4)
+![image](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/assets/61037075/b3777ccb-62e1-44f3-90ac-8e046e3339ba)
 
 ### Arrest Type Breakdown::
 What are the differences in charge type counts between males and females in the dataset?
