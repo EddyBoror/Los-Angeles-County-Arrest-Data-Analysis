@@ -43,11 +43,11 @@ In the initial data preparation phase, I performed the following tasks with Pyth
 ### Python Analysis
 - Please check here for my cleaning, analysis, and visualization using [Python](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Final%20Cleaned%20Arrest%20Dataset.ipynb) libraries.
 
-### Geospatial Crime Analysis:
+### Area Crime Analysis:
 
-  - Explore trends in arrest frequencies across diverse locations on a geographic map.
+  - What are the top four races within each geographical total count charge area?
 
-<img src="https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/blob/main/Geo%20City.png" width="1000" height="700" />
+![image](https://github.com/EddyBoror/Los-Angeles-County-Arrest-Data-Analysis/assets/61037075/340158e8-92c2-45f1-a43a-f11447d377e4)
 
 ### Arrest Type Breakdown::
 What are the differences in charge type counts between males and females in the dataset?
